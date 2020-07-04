@@ -2,7 +2,7 @@
 
 ## 自然语言处理
 
-- 
+- [jieba中文分词](https://github.com/fxsjy/jieba)
 
 
 ## 量化交易
