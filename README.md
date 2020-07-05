@@ -23,6 +23,7 @@
 - [rqalpha](https://github.com/ricequant/rqalpha.git)
 - [zipline](https://github.com/quantopian/zipline.git)
 - [jqdatasdk](https://github.com/JoinQuant/jqdatasdk.git)
+- [Awesome Quant](https://github.com/thuquant/awesome-quant)
 
 ## 一些库
 
@@ -35,6 +36,12 @@
 - [tornado](https://github.com/tornadoweb/tornado)
 - [Requests-HTML](https://github.com/psf/requests-html)
 - [click](https://github.com/pallets/click)
+- [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy)
+- [Pyramid](https://github.com/Pylons/pyramid)
+- [Twisted](https://github.com/twisted/twisted)
+- [gevent](https://github.com/gevent/gevent)
+- [Cython](https://github.com/cython/cython)
+- [cpython](https://github.com/python/cpython)
 
 ## 命令行工具
 
@@ -62,9 +69,25 @@
 
 - [CS-Notes](https://github.com/CyC2018/CS-Notes)
 - [Interview](https://github.com/apachecn/Interview)
+- [Awesome Interview](https://github.com/Awesome-Interview/Awesome-Interview)
+- [CS_Offer](https://github.com/selfboot/CS_Offer)
 
 ## 一些有趣的项目
 
 - [EverydayWechat](https://github.com/sfyc23/EverydayWechat)
 
 
+## 文档
+
+- [translations](https://github.com/oldratlee/translations)
+- [SICP Python 描述 中文版](https://github.com/wizardforcel/sicp-py-zh)
+- [Cpython Internals](https://github.com/zpoint/CPython-Internals)
+- [python-small-examples](https://github.com/jackzhenguo/python-small-examples)
+
+## 爬虫
+
+- [Selenium-python but lighter: Helium](https://github.com/mherrmann/selenium-python-helium)
+
+## 算法
+
+- [OnlineJudge 2.0](https://github.com/QingdaoU/OnlineJudge)
