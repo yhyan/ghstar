@@ -17,6 +17,7 @@
 ## 自然语言处理
 
 - [jieba中文分词](https://github.com/fxsjy/jieba)
+- [《现代汉语词典》（第7版）](https://github.com/CNMan/XDHYCD7th)
 
 ## 量化交易
 
