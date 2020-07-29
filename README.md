@@ -18,6 +18,7 @@
 
 - [jieba中文分词](https://github.com/fxsjy/jieba)
 - [《现代汉语词典》（第7版）](https://github.com/CNMan/XDHYCD7th)
+- [NLP民工的乐园: 几乎最全的中文NLP资源库](https://github.com/fighting41love/funNLP)
 
 ## 量化交易
 
