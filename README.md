@@ -67,6 +67,7 @@
 - [awesome-spider](https://github.com/facert/awesome-spider)
 - [Website login model](https://github.com/Kr1s77/awesome-python-login-model)
 - [Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications)
+- [hugo awesome](https://github.com/theNewDynamic/awesome-hugo)
 
 ## 求职
 
