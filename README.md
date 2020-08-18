@@ -95,3 +95,7 @@
 ## 算法
 
 - [OnlineJudge 2.0](https://github.com/QingdaoU/OnlineJudge)
+
+## 其他
+
+-[温铁军老师的视频链接也有了](https://github.com/kuytro/WenTieJun)
