@@ -78,6 +78,7 @@
 - [Interview](https://github.com/apachecn/Interview)
 - [Awesome Interview](https://github.com/Awesome-Interview/Awesome-Interview)
 - [CS_Offer](https://github.com/selfboot/CS_Offer)
+- [程序员内功修炼](https://github.com/iamshuaidi/algo-basic)
 
 ## 一些有趣的项目
 
